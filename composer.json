@@ -1,0 +1,16 @@
+{
+    "name": "dangzhenjiuhao/tp5demo",
+    "description": "demo",
+    "type": "project",
+    "license": "mit",
+    "authors": [
+        {
+            "name": "dangzhenjiuhao",
+            "email": "179067578@qq.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+        "php": ">=5.4.2"
+    }
+}
